@@ -1,0 +1,3 @@
+terraform-2024-06-11/*/.terraform/*
+terraform-2024-06-11/*/.terraform.lock.hcl
+terraform-2024-06-11/*/terraform.tfstate.backup
